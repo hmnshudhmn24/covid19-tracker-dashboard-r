@@ -1,8 +1,7 @@
 
 # 🧬 COVID-19 Tracker & Dashboard
 
-COVID-19 Tracker & Dashboard — A real-time interactive web app built using R and Shiny. It fetches live COVID-19 data from the Johns Hopkins CSSE API and visualizes daily confirmed cases, deaths, and recoveries. Features include country-wise filtering, interactive Plotly charts, and a responsive UI. Showcases skills in API integration, data visualization, and Shiny app development.
-
+A real-time interactive web app built using R and Shiny. It fetches live COVID-19 data from the Johns Hopkins CSSE API and visualizes daily confirmed cases, deaths, and recoveries. Features include country-wise filtering, interactive Plotly charts, and a responsive UI. Showcases skills in API integration, data visualization, and Shiny app development.
 
 ## 🚀 Features
 
