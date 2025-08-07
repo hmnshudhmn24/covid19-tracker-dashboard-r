@@ -1,5 +1,5 @@
 
-# 🧬 covid19-dashboard
+# 🧬 COVID-19 Tracker & Dashboard
 
 An interactive COVID-19 Tracker & Dashboard built with R and Shiny that visualizes live pandemic data using interactive charts.
 
@@ -47,6 +47,14 @@ shiny::runApp("path/to/covid19-dashboard")
 
 > Add screenshots here after running the dashboard!
 
----
+## 📁 Project Structure
 
-Made with ❤️ in R.
+covid19-tracker-dashboard-r/
+├── app.R         # Main R Shiny App file
+└── README.md     # Project documentation
+
+
+🔌 Data Source
+This dashboard uses the free and open COVID-19 API provided by:
+
+🔗 disease.sh - Open Disease Data API
