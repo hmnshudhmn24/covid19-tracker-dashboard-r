@@ -47,14 +47,8 @@ shiny::runApp("path/to/covid19-dashboard")
 
 > Add screenshots here after running the dashboard!
 
-## 📁 Project Structure
 
-covid19-tracker-dashboard-r/
-├── app.R         # Main R Shiny App file
-└── README.md     # Project documentation
-
-
-🔌 Data Source
+##🔌 Data Source
 This dashboard uses the free and open COVID-19 API provided by:
 
 🔗 disease.sh - Open Disease Data API
