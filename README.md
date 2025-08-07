@@ -1,7 +1,8 @@
 
 # 🧬 COVID-19 Tracker & Dashboard
 
-An interactive COVID-19 Tracker & Dashboard built with R and Shiny that visualizes live pandemic data using interactive charts.
+COVID-19 Tracker & Dashboard — A real-time interactive web app built using R and Shiny. It fetches live COVID-19 data from the Johns Hopkins CSSE API and visualizes daily confirmed cases, deaths, and recoveries. Features include country-wise filtering, interactive Plotly charts, and a responsive UI. Showcases skills in API integration, data visualization, and Shiny app development.
+
 
 ## 🚀 Features
 
@@ -47,8 +48,3 @@ shiny::runApp("path/to/covid19-dashboard")
 
 > Add screenshots here after running the dashboard!
 
-
-##🔌 Data Source
-This dashboard uses the free and open COVID-19 API provided by:
-
-🔗 disease.sh - Open Disease Data API
